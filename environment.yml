@@ -1,0 +1,23 @@
+---
+dependencies:
+  - python >= 3.8
+  - pip
+  - nodejs
+  - jupyterlab
+  - matplotlib
+  - umap-learn
+  - pandas
+  - seaborn
+  - scikit-learn
+  - tqdm
+  - papermill
+  - tensorboard
+  - libgcc
+  - logomaker
+  - python-snappy
+  - swifter
+  - pip:
+    - cmake
+    - MulticoreTSNE
+    - tensorboardX
+    - ipywidgets
