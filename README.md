@@ -5,7 +5,7 @@
 what's been talked in the paper, where they let those raw image vector passed through a one-layer NN.
 
 3. AttributeFeature.py: to obtain raw attribute vector and attribute guidance vector. Note that they directly used the 
-word embeddings of te five predicted attributes of those images, and they didn't provide code showing how they 
+word embeddings of the five predicted attributes of those images, and they didn't provide code showing how they 
 obtain them, like saying in the paper (ResNet-101......)
 
 4. TextFeature.py: to obtain raw text feature (hidden states in each time step) and text guidance vector, and applied
@@ -14,7 +14,7 @@ generate the word embeddings saying in the paper (GloVe.....)
 
 5. FuseAllFeature.py: apply representation fusion and modality fusion
 
-6. FinalClassifier.py: The final classification step: a 2-layer NN.
+6. FinalClassifier.py: the final classification step: a 2-layer NN.
 
 7. LoadData.py: create dataloader to load text, image, and attribute data
 
