@@ -20,3 +20,7 @@ generate the word embeddings saying in the paper (GloVe.....)
 
 # How to run:
 Just run "run.ipynb". You may just ignore "Colab: Connect Google Drive" part, and also play with "Test .py" part to check if all .py work well. Then run "Train & Test" part.
+
+# Download image data and image feature data:
+Image data: https://drive.google.com/drive/folders/1vtQgCvntxiq_lCjyoIjJCaHHuW2KNQWY?usp=sharing
+image feature data: https://drive.google.com/drive/folders/1-1WIwX2yLQCTsIXpjhhs0Rz8ZFMG3j8i?usp=sharing
