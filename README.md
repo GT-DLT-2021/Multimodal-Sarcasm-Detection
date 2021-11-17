@@ -19,7 +19,7 @@ generate the word embeddings saying in the paper (GloVe.....)
 7. LoadData.py: create dataloader to load text, image, and attribute data
 
 # How to run:
-Just run "run.ipynb". You may just ignore "Colab: Connect Google Drive" part, and also play with "Test .py" part to check if all .py work well. Then run "Train & Test" part.
+First download the image feature data from links below, unzip them into a folder "image_feature_data". There should be 24635 .npy files contained in it. Then run "run.ipynb". You may just ignore "Colab: Connect Google Drive" part if you're not going to use Colab, and also play with "Test .py" part to check if all .py work well (you may ignore this part as well). Then run "Train & Test" part.
 
 # Download image data and image feature data:
 Image data: https://drive.google.com/drive/folders/1vtQgCvntxiq_lCjyoIjJCaHHuW2KNQWY?usp=sharing
