@@ -22,6 +22,6 @@ generate the word embeddings saying in the paper (GloVe.....)
 First download the image feature data from links below, unzip them into a folder "image_feature_data" in the root directory. There should be 24635 .npy files contained in it. Then run "run.ipynb". You may just ignore "Colab: Connect Google Drive" part if you're not going to use Colab, and also play with "Test .py" part to check if all .py work well (you may ignore this part as well). Then run "Train & Test" part.
 
 # Download image data and image feature data:
-Image data: https://drive.google.com/drive/folders/1vtQgCvntxiq_lCjyoIjJCaHHuW2KNQWY?usp=sharing
+Image data: https://github.com/headacheboy/data-of-multimodal-sarcasm-detection
 
-image feature data: https://drive.google.com/drive/folders/1-1WIwX2yLQCTsIXpjhhs0Rz8ZFMG3j8i?usp=sharing
+image feature data: https://drive.google.com/drive/folders/1scn5tk8LObL4VAzE6j5KHj5ESXMvAWNH?usp=sharing
